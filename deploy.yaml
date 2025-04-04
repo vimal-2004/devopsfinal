@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: test
-        image: vimal2004/devops
+        image: vimal2004/final_task
         imagePullPolicy: Always
         ports:
         - containerPort: 80
